@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it_empresas"
+        android:icon="@mipmap/ic_mapa"
+        android:title="Clientes"
+        />
+
+    <item
+        android:id="@+id/it_productos"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Productos" />
+
+    <item
+        android:id="@+id/it_historial"
+        android:icon="@mipmap/ic_historial"
+        android:title="Historial" />
+
+    <item
+        android:id="@+id/it_buscar"
+        android:icon="@mipmap/ic_buscar"
+        android:title="Cliente" />
+
+</menu>
